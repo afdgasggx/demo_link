@@ -5,3 +5,4 @@ Only for exhibition of the SIGGRAPH Asia paper demo
 Revisiting Document Dewarping by Diffusion Probabilistic Perspective
 
 # Paper ID
+666
